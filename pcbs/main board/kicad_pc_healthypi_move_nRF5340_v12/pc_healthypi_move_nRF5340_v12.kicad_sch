@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8f404bb9-fb17-4b44-8086-95497491a3f4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 78.74 69.215)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b6a7211f-b5d4-4b9c-8dce-ca028a395813")
+		(property "Sheetname" "pc_healthypi_move_nRF5340_v12_1"
+			(at 78.74 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pc_healthypi_move_nRF5340_v12_1.kicad_sch"
+			(at 78.74 73.6096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pc_healthypi_move_nRF5340_v12"
+				(path "/8f404bb9-fb17-4b44-8086-95497491a3f4"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 69.215)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d3bbce13-7083-4349-9dde-feb6bccecfbf")
+		(property "Sheetname" "pc_healthypi_move_nRF5340_v12_2"
+			(at 129.54 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pc_healthypi_move_nRF5340_v12_2.kicad_sch"
+			(at 129.54 73.6096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pc_healthypi_move_nRF5340_v12"
+				(path "/8f404bb9-fb17-4b44-8086-95497491a3f4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
